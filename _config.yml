@@ -22,7 +22,7 @@ author: hamsm
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - tags : "/tags.html"
+    - tags : "tags"
    
 
 ################
