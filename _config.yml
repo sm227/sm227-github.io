@@ -21,6 +21,7 @@ author: hamsm
 
 navbar-links:
   About Me: "aboutme"
+  Daily : "/_layouts/daily
   Resources:
     - tags : "tags"
    
